@@ -1,9 +1,10 @@
 >>># MULTIPASS DOCUMENTATION
 Multipass is a tool to generate cloud-style Ubuntu VMs quickly on Linux, macOS and Windows. It provides a simple but powerful CLI that enables you to quickly access an Ubuntu command line or create your own local mini-cloud.
->>## In This Docummmention
+>>## In This Documentation
 - You will learn how to install and use multipass     
-- You learn how to create an instance
+- You will learn how to create an instance
 - you will learn how to stop, purge, and delete instances runing on a virtual machine
+- you will learn about aliasing and portainers
 >>### Install
 - Run command `` snap install multipass ``
 >>#### Use
